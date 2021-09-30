@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+#audi{
+    width: 224px;
+    height: 150px;
+}
+
+#room1{
+    width: 224px;
+    height: 150px;
+}
+
+h3{
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.travel_mainDiv{
+    border: 1px solid lightgray;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
